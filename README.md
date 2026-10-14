@@ -3,7 +3,7 @@
 
 Sistema desarrollado en Java para gestionar espacios universitarios, administrar reservas y consultar la disponibilidad de los espacios.
 
-#Funcionalidades
+# Funcionalidades
 
 Registrar y listar espacios universitarios.
 
@@ -19,7 +19,7 @@ Ordenar espacios por cantidad de reservas.
 
 Combinar espacios compatibles.
 
-#Tecnologías
+# Tecnologías
 
 Java 17 o superior.
 
